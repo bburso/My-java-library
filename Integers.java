@@ -6,8 +6,7 @@ public class Integers {
   public void print(int i) 
 	{
     		
-   		StringOutput so = new StringOutput(); 
- 
+   		StringOutput so = new StringOutput();
  	   	 so.print(so.convertToString(i));
 		 
   	}
@@ -15,6 +14,7 @@ public class Integers {
   public void Adddisplay(int i1, int i2) 
 	{
   		 StringOutput so = new StringOutput();
+
 	   	 so.print("Adddisplay result is " 
 	   			 + so.convertToString(i1) + "+"  + so.convertToString(i2) 
 	   			 + "=" + so.convertToString(i1+i2));

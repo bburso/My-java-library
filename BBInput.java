@@ -11,7 +11,7 @@ public class BBInput
 	 int i;
 	 int i2=0;
 	 String clearstr; 
-	 
+	 /* BB GIT TEST */
 	 Scanner reader = new Scanner(System.in);  /* Reading from System.in */
 	 StringOutput soi = new StringOutput();
 	 
