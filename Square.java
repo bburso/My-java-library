@@ -1,4 +1,4 @@
-
+/* update 011118 */
 public class Square extends Rectangle {
 	
 	protected String myObjectNameIs="SQUARE";

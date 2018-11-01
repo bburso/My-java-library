@@ -1,5 +1,6 @@
 /* interface class     - ?? why do we need this -  well its to effectively create an interface that is not implementaion specific  but ensures that the interface is built.   so the interface can specify a function like draw.  the actual implemenation can vary but it needs to exist??   
 */
+/* update 011118 */
 
 public interface Shape {
    void draw();
