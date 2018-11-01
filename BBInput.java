@@ -1,4 +1,4 @@
-/* update 011118 */
+/* update 011118 test for release mgmt */
 import java.util.InputMismatchException;
 import java.util.Scanner; 
 
